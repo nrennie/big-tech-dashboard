@@ -1,10 +1,19 @@
 ---
-format: html
+title: "Palmer Penguins"
+author: "Nicola Rennie"
+format: 
+  dashboard:
+    logo: images/logo.png
+    nav-buttons:
+      - icon: github
+        href: https://github.com/nrennie/ojs-project
 engine: knitr
 execute: 
   echo: false
   eval: true
 ---
+
+## Row {height=70%}
 
 ```{ojs}
 data = FileAttachment("data/penguins.csv").csv({ typed: true })
@@ -43,3 +52,15 @@ Plot.rectY(filtered,
   }
 )
 ```
+
+## Row {height=30%}
+
+```{r}
+2 + 2
+```
+
+```{r}
+3 + 3
+```
+
+
