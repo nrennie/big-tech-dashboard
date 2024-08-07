@@ -1,8 +1,10 @@
-# Lemur Dashboard
+# Big Tech Dashboard
 
-Quarto project with Observable JS code blocks.
+## Data
 
-- add gt table on a separate page
-- add image of lemur
-- add cards
-- get data working
+## Software
+
+* ObservableJS
+* D3.js
+* R
+* Quarto
