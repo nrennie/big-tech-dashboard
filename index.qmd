@@ -10,7 +10,6 @@ format:
     nav-buttons:
       - icon: github
         href: https://github.com/nrennie/big-tech-dashboard
-engine: knitr
 execute: 
   echo: false
   eval: true
