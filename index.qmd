@@ -10,9 +10,6 @@ format:
     nav-buttons:
       - icon: github
         href: https://github.com/nrennie/big-tech-dashboard
-execute: 
-  echo: false
-  eval: true
 ---
 
 ## {.toolbar}
@@ -76,4 +73,4 @@ highCard = html`
 
 ## Row {height=5%}
 
-Data: [kaggle.com](https://www.kaggle.com/datasets/evangower/big-tech-stock-prices)
+Data: [kaggle.com](https://www.kaggle.com/datasets/evangower/big-tech-stock-prices) | Design: [Nicola Rennie](https://nrennie.rbind.io/)
